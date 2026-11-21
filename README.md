@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at halkazame@gmil.com
+- 📫 You can reach me at halkazame@gmail.com
 
 <!---
 halkazame/halkazame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
